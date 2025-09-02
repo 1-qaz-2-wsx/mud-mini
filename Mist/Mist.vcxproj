@@ -127,11 +127,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <ClCompile Include="EnemyTemplate.cpp" />
     <ClCompile Include="Mist.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="EnemyTemplate.h" />
+=======
+    <ClCompile Include="Entity.cpp" />
+    <ClCompile Include="Mist.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Entity.h" />
+>>>>>>> 91556922a1c0aade51aae62fad3d2e757e997b47
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

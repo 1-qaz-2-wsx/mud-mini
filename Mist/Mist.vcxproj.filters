@@ -18,12 +18,20 @@
     <ClCompile Include="Mist.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+<<<<<<< HEAD
     <ClCompile Include="EnemyTemplate.cpp">
+=======
+    <ClCompile Include="Entity.cpp">
+>>>>>>> 91556922a1c0aade51aae62fad3d2e757e997b47
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <ClInclude Include="EnemyTemplate.h">
+=======
+    <ClInclude Include="Entity.h">
+>>>>>>> 91556922a1c0aade51aae62fad3d2e757e997b47
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
