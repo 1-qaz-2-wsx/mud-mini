@@ -416,3 +416,29 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+
+# VS C++ project files (如果组员环境不一致建议忽略)
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# C++ build output
+*.exe
+*.dll
+*.lib
+*.obj
+*.idb
+*.pdb
+*.ilk
+
+# Logs
+*.log
+*.tlog
+*.lastbuildstate
+
+# Game save files
+*.sav
+*.save
+save*.txt
+
