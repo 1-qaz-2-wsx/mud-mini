@@ -18,5 +18,13 @@
     <ClCompile Include="Mist.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="EnemyTemplate.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="EnemyTemplate.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
